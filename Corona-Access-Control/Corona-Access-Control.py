@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 # 라이브러리 불러오기
 from pandas import DataFrame
 from datetime import datetime
@@ -16,40 +13,20 @@ from pyzbar.pyzbar import ZBarSymbol
 
 import winsound as ws
 
-
-# In[ ]:
-
-
 # 비프음 함수
 def beepsound():
     freq = 1000    # range : 37 ~ 32767
     dur = 200     # ms
     ws.Beep(freq, dur) # winsound.Beep(frequency, duration)
 
-
-# In[ ]:
-
-
 # 오늘 날짜 정보 가져오기
 today = datetime.today().strftime('%Y%m%d')
-
-
-# In[ ]:
-
 
 # PC 이름 입력받기
 pc_num= input('PC 번호를 입력하세요 : ')
 
-
-# In[ ]:
-
-
 # 파일 이름 생성하기
 file_name = today + '_' + 'PC' + '_' + pc_num
-
-
-# In[ ]:
-
 
 # 같은 이름의 파일이 있다면 파일 이름 수정
 if os.path.exists('./'+ file_name +'.xlsx') == True:
@@ -57,18 +34,10 @@ if os.path.exists('./'+ file_name +'.xlsx') == True:
     num = input('몇 번째 파일입니까? : ')
     file_name = today + '_' + 'PC' + '_' + pc_num + '_' + '(' + num + ')'
 
-
-# In[ ]:
-
-
 # 성도 정보 데이터 프레임 생성
 df = DataFrame(columns = ['교회', '구역', '이름','소속','연락처','체온','문진사항','방문시간'])
 count = 1
 brethren = []
-
-
-# In[ ]:
-
 
 # QRCode 스캔 및 성도 정보 입력
 capture = cv2.VideoCapture(1)
@@ -118,8 +87,7 @@ while True:
             df.to_excel(file_name + '.xlsx')
             count = count - 1
         else:
-            pass
-        
+            pass       
     except:
         pass
     
@@ -127,10 +95,3 @@ while True:
     key = cv2.waitKey(1)
     if key == ord('q'):
         break
-
-
-# In[ ]:
-
-
-
-
