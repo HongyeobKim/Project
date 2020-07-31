@@ -35,3 +35,8 @@
 12. 11번의 경우, 저장되는 파일 이름의 형식은 "YYYYMMDD_PC_PC번호_(num)" 입니다.
 13. "QR Code Scanner"창에서 'q'를 입력하면 프로그램이 종료됩니다.
 ## 스크린샷
+![20200731_134741_1111](https://user-images.githubusercontent.com/68726615/89001281-bb28e100-d334-11ea-9cc6-74eb1633f4b8.png)
+   
+![20200731_134741_2222](https://user-images.githubusercontent.com/68726615/89001282-bbc17780-d334-11ea-9de1-bb78aa3344cc.png)
+   
+![20200731_134741_3](https://user-images.githubusercontent.com/68726615/89001279-ba904a80-d334-11ea-8e0e-fed5e03969e4.png)
