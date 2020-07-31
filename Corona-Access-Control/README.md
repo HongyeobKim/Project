@@ -40,3 +40,5 @@
 ![20200731_134741_2222](https://user-images.githubusercontent.com/68726615/89001282-bbc17780-d334-11ea-9de1-bb78aa3344cc.png)
    
 ![20200731_134741_3](https://user-images.githubusercontent.com/68726615/89001279-ba904a80-d334-11ea-8e0e-fed5e03969e4.png)
+## exe 실행 파일 다운로드
+[링크](https://drive.google.com/drive/folders/1YT46kycCBy-YfScHyM2EZOGodBU3_ewS?usp=sharing "")
