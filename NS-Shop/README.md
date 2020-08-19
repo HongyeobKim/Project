@@ -1,4 +1,4 @@
-# NS홈쇼핑
+# NS 홈쇼핑
 
 # Overview
 
@@ -18,7 +18,7 @@
 
 |date|day|note|
 |:-----:|:-----:|:------|
-|20/08/19|wed||
+|20/08/20|thur||
 
 ## Notebooks and Analysis
 
@@ -30,4 +30,4 @@ The project includes the following notebooks:
 
 |#|title|source|note|
 |:---:|:--------:|:---------:|:---------|
-|1||||
+|||||
