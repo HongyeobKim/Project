@@ -19,7 +19,7 @@
 |date|day|note|
 |:-----:|:-----:|:------|
 |20/08/20|thur|Data Preparation, Analyzing the Features(노출(분) 분석)|
-|20/08/20|thur|Analyzing the Features(방송일시 분석)|
+|20/08/21|fri|Analyzing the Features(방송일시 분석)|
 
 ## Notebooks and Analysis
 
