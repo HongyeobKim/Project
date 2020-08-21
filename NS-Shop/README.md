@@ -25,7 +25,7 @@
 
 The project includes the following notebooks:
 
-- EDA
+- [Data Preparation & Exploration](https://github.com/hngyb/Project/blob/master/NS-Shop/Data-Preparation-and-Exploration.ipynb "")
 
 ## Reference
 
