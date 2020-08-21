@@ -4,7 +4,7 @@
 
 - **Title** : NS SHOP+ 판매실적 예측을 통한 편성 최적화 방안(모형) 도출
 - **Organization** : 2020 빅콘테스트 (NIA 한국정보화진흥원, KBD 빅데이터포럼), NS 홈쇼핑
-- **Description** : NS Shop+편성데이터(NS홈쇼핑) 를 활용하여 방송편성표에 따른판매실적을 예측하고, 최적 수익을 고려한 요일별/ 시간대별 / 카테고리별 편성최적화 방안(모형) 제시
+- **Description** : NS Shop+편성데이터(NS홈쇼핑) 를 활용하여 방송편성표에 따른 판매실적을 예측하고, 최적 수익을 고려한 요일별/ 시간대별 / 카테고리별 편성최적화 방안(모형) 제시
 - **Author** : 김홍엽
 - **Date** : 20/08/19 ~
 
@@ -18,7 +18,8 @@
 
 |date|day|note|
 |:-----:|:-----:|:------|
-|20/08/20|thur||
+|20/08/20|thur|Data Preparation, Analyzing the Features(노출(분) 분석)|
+|20/08/20|thur|Analyzing the Features(방송일시 분석)|
 
 ## Notebooks and Analysis
 
@@ -30,4 +31,4 @@ The project includes the following notebooks:
 
 |#|title|source|note|
 |:---:|:--------:|:---------:|:---------|
-|||||
+|1|[최규민님의 Instacart EDA](https://gist.github.com/goodvc78/3653c8f6a510f619d7ad6570111f38d8 "")|최규민|Week-Hour analysis 참고|
