@@ -20,6 +20,7 @@
 |:-----:|:-----:|:------|
 |20/08/20|thur|Data Preparation, Analyzing the Features(노출(분) 분석)|
 |20/08/21|fri|Analyzing the Features(방송일시, 상품군 분석)|
+|20/08/22|sat|Analyzing the Features(마더코드, 상품코드, 노출 횟수 분석)|
 
 ## Notebooks and Analysis
 
