@@ -3,4 +3,4 @@
 # Data-Science
 1. [NS SHOP+ 판매실적 예측을 통한 편성 최적화 방안(모형) 도출](https://github.com/hngyb/Project/tree/master/NS-Shop "")
 # ML/DL
-1. [식단 이미지 분석을 통한 식단 유사도 평가]( "")
+1. [이미지 분석을 통한 식단 유사도 평가]( "")
